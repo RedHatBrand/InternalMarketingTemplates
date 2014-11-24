@@ -12,6 +12,60 @@
         "call-to-action": "Nominate Now",
         "call-to-action-link": "http://preview14111304.createsend1.com/t/t-l-jhlrlit-l-j/"
       }
+    ],
+    "news-sections": [
+      {
+        "title": "HOT OFF THE PRESS",
+        "articles": [
+          {
+            "label": "JAPAN",
+            "title": "Red Hat's OpenShift Updates Ease Hybrid Cloud Deployments for Developers",
+            "link": "http://preview14111304.createsend1.com/t/t-l-jhlrlit-l-t/" 
+          },
+          {
+            "label": "GCG",
+            "title": "Red Hat Launches Linux Container Beta With Docker And Google Kubernetes Support",
+            "link": "http://preview14111304.createsend1.com/t/t-l-jhlrlit-l-i/"
+          },
+          {
+            "label": "ANZ",
+            "title": "The 50 Most Powerful People In Enterprise Tech In 2014",
+            "link": "http://preview14111304.createsend1.com/t/t-l-jhlrlit-l-d/"
+          }
+        ]
+      },
+      {
+        "title": "INDUSTRY NEWS",
+        "articles": [
+          {
+            "title": "Weighing up Kilo: what's next for OpenStack?",
+            "link": "http://preview14111304.createsend1.com/t/t-l-jhlrlit-l-k/" 
+          },
+          {
+            "title": "5 things to look for at AWS Re:Invent 2014",
+            "link": "http://preview14111304.createsend1.com/t/t-l-jhlrlit-l-u/"
+          },
+          {
+            "title": "EMC to introduce enhanced cloud strategy in PH",
+            "link": "http://preview14111304.createsend1.com/t/t-l-jhlrlit-l-o/"
+          }
+        ]
+      },
+      {
+        "title": "LATEST NEWS",
+        "articles": [
+          {
+            "title": "Watch: Red Hat presents 'Transform IT, transform your business'",
+            "date": "11/11",
+            "link": "http://preview14111304.createsend1.com/t/t-l-jhlrlit-l-x/" 
+          },
+          {
+            "title": "Charlene Begley joins Red Hat's Board of Directors",
+            "date": "11/11",
+            "link": "http://preview14111304.createsend1.com/t/t-l-jhlrlit-l-m/"
+          }
+        ]
+      }
     ]
   }
 }
